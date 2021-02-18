@@ -1,5 +1,5 @@
 # Guia da Guilda Portugês
-Este é um guia para te ensinar como contribuir e participar da Guilda NEAR Português
+Este é um guia para te ensinar como contribuir e participar da Guilda Português da NEAR
 
 ## Canais de Comunicação
 - Grupo do Telegram da Guilda NEAR Português
