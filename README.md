@@ -1,11 +1,11 @@
 # Guia da Guilda Portugês
 Este é um guia para te ensinar como contribuir e participar da Guilda Português da NEAR.
 
-* Canais de Comunicação
-* Traduções
-* Meetups e Eventos
-* Repositórios
-* Administradores da Guilda
+* (Canais de Comunicação](#canais-de-comunicação)
+* (Traduções)[#traduções]
+* (Meetups e Eventos)[#meetups-e-eventos]
+* (Repositórios)[#repositórios]
+* (Administradores da Guilda)[#administradores-da-guilda]
 
 ## Canais de Comunicação
 - Grupo do Telegram da Guilda NEAR Português
