@@ -1,4 +1,4 @@
-# Guia NEAR Portugês
+# Guia da Guilda Portugês
 Este é um guia para te ensinar como contribuir e participar da Guilda NEAR Português
 
 ## Canais de Comunicação
