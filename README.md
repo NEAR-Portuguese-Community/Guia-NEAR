@@ -24,5 +24,5 @@ Caso tenha interesse, entrar em contato com um dos administradores da guilda.
 
 ## Eventos
 
-## Moderadores da guilda
+## Administradores da guilda
 - Murilo de Oliveira do Nascimento (murilooon@gmail.com)
