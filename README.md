@@ -3,7 +3,7 @@ Este é um guia para te ensinar como contribuir e participar da Guilda Portuguê
 
 ## Canais de Comunicação
 - Grupo do Telegram da Guilda NEAR Português
-- [Discord da Guilda NEAR Português](https://discord.gg/kcfKR7sycJ)
+- [Discord da Guilda Português](https://discord.gg/kcfKR7sycJ)
 - [Grupo do Telegram Oficial](https://t.me/cryptonear) (inglês)
 - [Discord Oficial](https://discord.gg/WbEXGFxYan) (inglês)
 
